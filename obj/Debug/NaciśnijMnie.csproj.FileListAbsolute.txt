@@ -1,0 +1,10 @@
+C:\Users\Komputer\source\repos\NaciśnijMnie\bin\Debug\NaciśnijMnie.exe.config
+C:\Users\Komputer\source\repos\NaciśnijMnie\bin\Debug\NaciśnijMnie.exe
+C:\Users\Komputer\source\repos\NaciśnijMnie\bin\Debug\NaciśnijMnie.pdb
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.csprojAssemblyReference.cache
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.Form1.resources
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.Properties.Resources.resources
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.csproj.GenerateResource.cache
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.exe
+C:\Users\Komputer\source\repos\NaciśnijMnie\obj\Debug\NaciśnijMnie.pdb
